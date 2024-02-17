@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\bin\Debug\net8.0\Phone Contacts Manager.exe
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\bin\Debug\net8.0\Phone Contacts Manager.deps.json
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\bin\Debug\net8.0\Phone Contacts Manager.runtimeconfig.json
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\bin\Debug\net8.0\Phone Contacts Manager.dll
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\bin\Debug\net8.0\Phone Contacts Manager.pdb
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\obj\Debug\net8.0\Phone Contacts Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\obj\Debug\net8.0\Phone Contacts Manager.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\obj\Debug\net8.0\Phone Contacts Manager.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\obj\Debug\net8.0\Phone Contacts Manager.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\obj\Debug\net8.0\Phone Contacts Manager.dll
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\obj\Debug\net8.0\refint\Phone Contacts Manager.dll
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\obj\Debug\net8.0\Phone Contacts Manager.pdb
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\obj\Debug\net8.0\Phone Contacts Manager.genruntimeconfig.cache
+C:\Users\ahmed\source\repos\Phone Contacts Manager\Phone Contacts Manager\obj\Debug\net8.0\ref\Phone Contacts Manager.dll
